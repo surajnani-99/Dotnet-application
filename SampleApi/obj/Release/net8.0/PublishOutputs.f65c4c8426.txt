@@ -1,0 +1,10 @@
+/home/azureuser/Dotnet-application/SampleApi/publish/SampleApi
+/home/azureuser/Dotnet-application/SampleApi/publish/appsettings.json
+/home/azureuser/Dotnet-application/SampleApi/publish/SampleApi.dll
+/home/azureuser/Dotnet-application/SampleApi/publish/SampleApi.deps.json
+/home/azureuser/Dotnet-application/SampleApi/publish/SampleApi.runtimeconfig.json
+/home/azureuser/Dotnet-application/SampleApi/publish/SampleApi.pdb
+/home/azureuser/Dotnet-application/SampleApi/publish/Microsoft.OpenApi.dll
+/home/azureuser/Dotnet-application/SampleApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/azureuser/Dotnet-application/SampleApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/azureuser/Dotnet-application/SampleApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
